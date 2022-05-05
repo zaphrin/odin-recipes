@@ -1,0 +1,21 @@
+p, li {
+    font-family: sans-serif;
+}
+
+.main-header {
+    color: black;
+}
+
+.main-list {
+    font-family: 'Times New Roman', 'serif';
+    font-size: 18px;
+}
+
+.sub-header {
+    color: #3A3B3C;
+}
+
+.ingredients li, .steps li {
+    font-family: monospace;
+    font-size: 14px;
+}
